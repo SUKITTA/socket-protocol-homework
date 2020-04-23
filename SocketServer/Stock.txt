@@ -1,0 +1,3 @@
+shampoo:30
+dog collar:60
+smartheart:40
